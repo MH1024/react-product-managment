@@ -1,6 +1,6 @@
 import React from 'react'
 
-const ProductsList = () => {
+const ProductList = () => {
     return (
         <div className="prod-list section">
 
@@ -8,7 +8,7 @@ const ProductsList = () => {
                 <div className="card-conecnt grey-text text-darken-3">
                     <span className="card-title">Product Title</span>
                     <p>Create by K H</p>
-                    <p className="grey-text">3 Sep 2020</p>
+                    <p className="grey-text">3rd Sep 2020</p>
                 </div>
             </div>
         </div>
